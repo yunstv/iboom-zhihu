@@ -28,7 +28,7 @@ function * watchIncrementAsyncOnceSaga () {
 }
 
 function * helloSaga () {
-  console.log('hello saga')
+  // console.log('hello saga')
 }
 
 function * setCountTimerShowRequest () {
